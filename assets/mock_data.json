@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Software Development",
+    "cover_image_url": "https://picsum.photos/400?random=1",
+    "trainings": [
+      {
+        "name": "Full-Stack Development",
+        "location": "New York, USA",
+        "description": "Learn to build web applications from front-end to back-end.",
+        "image_url": "https://picsum.photos/400?random=11",
+        "trainer_name": "Alice Johnson"
+      },
+      {
+        "name": "Mobile App Development",
+        "location": "San Francisco, USA",
+        "description": "Develop native and cross-platform mobile applications.",
+        "image_url": "https://picsum.photos/400?random=12",
+        "trainer_name": "Bob Smith"
+      },
+      {
+        "name": "Cloud Computing",
+        "location": "Seattle, USA",
+        "description": "Master cloud platforms like AWS, Azure, and GCP.",
+        "image_url": "https://picsum.photos/400?random=13",
+        "trainer_name": "Carol Lee"
+      },
+      {
+        "name": "DevOps Fundamentals",
+        "location": "Austin, USA",
+        "description": "Understand the principles of DevOps and CI/CD pipelines.",
+        "image_url": "https://picsum.photos/400?random=14",
+        "trainer_name": "Dave Brown"
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "location": "Boston, USA",
+        "description": "Enhance problem-solving skills with in-depth DSA knowledge.",
+        "image_url": "https://picsum.photos/400?random=15",
+        "trainer_name": "Eve Davis"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Data Science",
+    "cover_image_url": "https://picsum.photos/400?random=2",
+    "trainings": [
+      {
+        "name": "Machine Learning",
+        "location": "Toronto, Canada",
+        "description": "Understand the basics and advanced concepts of ML.",
+        "image_url": "https://picsum.photos/400?random=21",
+        "trainer_name": "Frank White"
+      },
+      {
+        "name": "Data Visualization",
+        "location": "London, UK",
+        "description": "Learn to visualize data effectively with tools like Tableau.",
+        "image_url": "https://picsum.photos/400?random=22",
+        "trainer_name": "Grace Kim"
+      },
+      {
+        "name": "Big Data Analytics",
+        "location": "Singapore",
+        "description": "Explore big data technologies and analytics techniques.",
+        "image_url": "https://picsum.photos/400?random=23",
+        "trainer_name": "Henry Clark"
+      },
+      {
+        "name": "Python for Data Science",
+        "location": "Sydney, Australia",
+        "description": "Learn Python programming for data manipulation and analysis.",
+        "image_url": "https://picsum.photos/400?random=24",
+        "trainer_name": "Isabel Martinez"
+      },
+      {
+        "name": "AI Fundamentals",
+        "location": "Berlin, Germany",
+        "description": "Dive into artificial intelligence concepts and applications.",
+        "image_url": "https://picsum.photos/400?random=25",
+        "trainer_name": "Jack Wilson"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Project Management",
+    "cover_image_url": "https://picsum.photos/400?random=3",
+    "trainings": [
+      {
+        "name": "Agile Project Management",
+        "location": "Dubai, UAE",
+        "description": "Learn Agile methodologies for efficient project delivery.",
+        "image_url": "https://picsum.photos/400?random=31",
+        "trainer_name": "Karen Young"
+      },
+      {
+        "name": "PMP Certification Training",
+        "location": "Chicago, USA",
+        "description": "Prepare for the PMP certification with comprehensive training.",
+        "image_url": "https://picsum.photos/400?random=32",
+        "trainer_name": "Liam Brown"
+      },
+      {
+        "name": "Scrum Master Training",
+        "location": "Tokyo, Japan",
+        "description": "Master the role of a Scrum Master in Agile projects.",
+        "image_url": "https://picsum.photos/400?random=33",
+        "trainer_name": "Mia Chen"
+      },
+      {
+        "name": "Risk Management",
+        "location": "Paris, France",
+        "description": "Identify and manage risks in projects effectively.",
+        "image_url": "https://picsum.photos/400?random=34",
+        "trainer_name": "Noah Patel"
+      },
+      {
+        "name": "Leadership Skills",
+        "location": "Mumbai, India",
+        "description": "Develop leadership skills for successful project management.",
+        "image_url": "https://picsum.photos/400?random=35",
+        "trainer_name": "Olivia Garcia"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cybersecurity",
+    "cover_image_url": "https://picsum.photos/400?random=4",
+    "trainings": [
+      {
+        "name": "Ethical Hacking",
+        "location": "Amsterdam, Netherlands",
+        "description": "Learn to identify and address vulnerabilities ethically.",
+        "image_url": "https://picsum.photos/400?random=41",
+        "trainer_name": "Paul Adams"
+      },
+      {
+        "name": "Network Security",
+        "location": "Los Angeles, USA",
+        "description": "Understand how to secure and protect computer networks.",
+        "image_url": "https://picsum.photos/400?random=42",
+        "trainer_name": "Quinn Foster"
+      },
+      {
+        "name": "Cyber Threat Analysis",
+        "location": "Johannesburg, South Africa",
+        "description": "Analyze and respond to cyber threats effectively.",
+        "image_url": "https://picsum.photos/400?random=43",
+        "trainer_name": "Rachel Turner"
+      },
+      {
+        "name": "Cryptography Basics",
+        "location": "Moscow, Russia",
+        "description": "Understand cryptographic techniques for secure communication.",
+        "image_url": "https://picsum.photos/400?random=44",
+        "trainer_name": "Samuel Green"
+      },
+      {
+        "name": "Incident Response",
+        "location": "Bangkok, Thailand",
+        "description": "Learn how to respond to and mitigate security incidents.",
+        "image_url": "https://picsum.photos/400?random=45",
+        "trainer_name": "Tina Nguyen"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Digital Marketing",
+    "cover_image_url": "https://picsum.photos/400?random=5",
+    "trainings": [
+      {
+        "name": "SEO Mastery",
+        "location": "Madrid, Spain",
+        "description": "Master search engine optimization techniques.",
+        "image_url": "https://picsum.photos/400?random=51",
+        "trainer_name": "Uma Singh"
+      },
+      {
+        "name": "Social Media Marketing",
+        "location": "Rome, Italy",
+        "description": "Harness the power of social media for business growth.",
+        "image_url": "https://picsum.photos/400?random=52",
+        "trainer_name": "Victor Rossi"
+      },
+      {
+        "name": "Content Marketing",
+        "location": "Vancouver, Canada",
+        "description": "Learn to create and distribute valuable content.",
+        "image_url": "https://picsum.photos/400?random=53",
+        "trainer_name": "Wendy Harris"
+      },
+      {
+        "name": "Google Ads Training",
+        "location": "Melbourne, Australia",
+        "description": "Optimize campaigns with advanced Google Ads techniques.",
+        "image_url": "https://picsum.photos/400?random=54",
+        "trainer_name": "Xavier Morgan"
+      },
+      {
+        "name": "Email Marketing Strategies",
+        "location": "Cape Town, South Africa",
+        "description": "Develop effective email marketing strategies.",
+        "image_url": "https://picsum.photos/400?random=55",
+        "trainer_name": "Yara Lopez"
+      }
+    ]
+  }
+]
