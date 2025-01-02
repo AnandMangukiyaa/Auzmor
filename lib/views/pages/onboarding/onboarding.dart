@@ -1,4 +1,4 @@
-import 'package:auzmor_assignment/blocs/user/training_bloc.dart';
+import 'package:auzmor_assignment/blocs/training/training_bloc.dart';
 import 'package:auzmor_assignment/core/constants/constants.dart';
 import 'package:auzmor_assignment/core/enums/enums.dart';
 import 'package:auzmor_assignment/core/routes/app_routes.dart';
