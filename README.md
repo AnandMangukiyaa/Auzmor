@@ -12,8 +12,8 @@ in different OS platforms.
 
 After clone this project, just run bellow command in terminal for import dependencies
 
-[flutter pub get]
+[flutter pub get](https://docs.flutter.dev/get-started/install)
 
 For run the project by terminal command
 
-[flutter run]
+[flutter run](https://docs.flutter.dev/get-started/install)
